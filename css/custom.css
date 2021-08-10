@@ -1,0 +1,34 @@
+/* 
+
+1. Add your custom Css styles below
+2. Place the this code in your template: 
+
+ <link href="css/custom.css" rel="stylesheet">
+
+*/
+
+
+.card .card-header {
+    background-color: #e3f0f3;
+    border-bottom: 1px solid #e6e8eb;
+    font-weight: 600;
+    padding: 1.8rem 2rem;
+}
+
+.gradient-text {
+
+    /* font-size: 72px; */
+    background: -webkit-linear-gradient(#eee, rgb(184, 13, 13));
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.gradient-text-blue {
+    /* font-size: 72px; */
+    background: -webkit-linear-gradient(#eee, rgb(65, 28, 230));
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
