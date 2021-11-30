@@ -3620,12 +3620,12 @@ Side Push Panel
   background-color: rgba(255, 255, 255, 0.1);
 }
 
-.side-panel {
+/* .side-panel {
   /* Static */
-  /* Reval */
-}
+/* Reval */
 
-.side-panel .body-inner,
+
+*/ .side-panel .body-inner,
 .side-panel #wrapper {
   height: 100%;
   position: relative;
